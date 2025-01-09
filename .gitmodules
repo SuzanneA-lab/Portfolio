@@ -1,0 +1,9 @@
+[submodule "the-data-processing-assignment-SuzanneA-lab"]
+	path = the-data-processing-assignment-SuzanneA-lab
+	url = https://github.com/Sam-Scott-McMaster/the-data-processing-assignment-SuzanneA-lab
+[submodule "the-ci-pipeline-assignment-SuzanneA-lab"]
+	path = the-ci-pipeline-assignment-SuzanneA-lab
+	url = https://github.com/Sam-Scott-McMaster/the-ci-pipeline-assignment-SuzanneA-lab
+[submodule "the-bash-assignment-Suzanne-A-lab"]
+	path = the-bash-assignment-Suzanne-A-lab
+	url = https://github.com/Sam-Scott-McMaster/the-bash-assignment-SuzanneA-lab
